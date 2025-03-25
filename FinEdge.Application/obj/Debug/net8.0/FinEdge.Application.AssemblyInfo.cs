@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinEdge.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be4cc1cad28427c5bed4ef2ff62c8d16c4243c98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90c4c0ebb8c682230c333acaebf7ea360c5d2045")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinEdge.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinEdge.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,3 +13,4 @@ C:\Users\VP\Desktop\FinEdge\FinEdge.Application\bin\Debug\net8.0\FinEdge.Domain.
 C:\Users\VP\Desktop\FinEdge\FinEdge.Application\bin\Debug\net8.0\FinEdge.Domain.pdb
 C:\Users\VP\Desktop\FinEdge\FinEdge.Application\obj\Debug\net8.0\FinEdge.Application.csproj.AssemblyReference.cache
 C:\Users\VP\Desktop\FinEdge\FinEdge.Application\obj\Debug\net8.0\FinEdge..6A017549.Up2Date
+C:\Users\VP\Desktop\FinEdge\FinEdge.Application\obj\Debug\net8.0\FinEdge.Application.sourcelink.json

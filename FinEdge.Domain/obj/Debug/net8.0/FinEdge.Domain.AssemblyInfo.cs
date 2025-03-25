@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinEdge.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90c4c0ebb8c682230c333acaebf7ea360c5d2045")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinEdge.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinEdge.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

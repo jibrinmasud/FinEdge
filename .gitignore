@@ -1,5 +1,3 @@
 .vs
 appsetting.json
 appsetting.Development.json
-bin
-obj

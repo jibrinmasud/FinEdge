@@ -9,3 +9,4 @@ C:\Users\VP\Desktop\FinEdge\FinEdge.Domain\obj\Debug\net8.0\FinEdge.Domain.dll
 C:\Users\VP\Desktop\FinEdge\FinEdge.Domain\obj\Debug\net8.0\refint\FinEdge.Domain.dll
 C:\Users\VP\Desktop\FinEdge\FinEdge.Domain\obj\Debug\net8.0\FinEdge.Domain.pdb
 C:\Users\VP\Desktop\FinEdge\FinEdge.Domain\obj\Debug\net8.0\ref\FinEdge.Domain.dll
+C:\Users\VP\Desktop\FinEdge\FinEdge.Domain\obj\Debug\net8.0\FinEdge.Domain.sourcelink.json
