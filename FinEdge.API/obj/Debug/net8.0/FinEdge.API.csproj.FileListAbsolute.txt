@@ -143,3 +143,4 @@ C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\Npgsql.dll
 C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\FinEdge.Infrasturcture.dll
 C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\FinEdge.Infrasturcture.pdb
+C:\Users\VP\Desktop\FinEdge\FinEdge.API\obj\Debug\net8.0\FinEdge.API.sourcelink.json

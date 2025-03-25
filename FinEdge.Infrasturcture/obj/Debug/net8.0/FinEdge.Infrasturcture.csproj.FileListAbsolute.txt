@@ -17,3 +17,4 @@ C:\Users\VP\Desktop\FinEdge\FinEdge.Infrasturcture\obj\Debug\net8.0\FinEdge.Infr
 C:\Users\VP\Desktop\FinEdge\FinEdge.Infrasturcture\obj\Debug\net8.0\FinEdge..FECEA39C.Up2Date
 C:\Users\VP\Desktop\FinEdge\FinEdge.Infrasturcture\bin\Debug\net8.0\FinEdge.Infrasturcture.runtimeconfig.json
 C:\Users\VP\Desktop\FinEdge\FinEdge.Infrasturcture\obj\Debug\net8.0\FinEdge.Infrasturcture.genruntimeconfig.cache
+C:\Users\VP\Desktop\FinEdge\FinEdge.Infrasturcture\obj\Debug\net8.0\FinEdge.Infrasturcture.sourcelink.json
