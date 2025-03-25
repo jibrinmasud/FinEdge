@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nNPqED756XLVWKNSLWeR8FuuaBI3N/wno8pKUeiX71Y=",
+  "Source": "FinEdge.API",
+  "BasePath": "_content/FinEdge.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
