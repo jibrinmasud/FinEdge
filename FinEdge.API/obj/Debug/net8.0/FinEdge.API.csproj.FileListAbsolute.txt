@@ -27,7 +27,6 @@ C:\Users\VP\Desktop\FinEdge\FinEdge.API\obj\Debug\net8.0\staticwebassets\msbuild
 C:\Users\VP\Desktop\FinEdge\FinEdge.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FinEdge.API.props
 C:\Users\VP\Desktop\FinEdge\FinEdge.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FinEdge.API.props
 C:\Users\VP\Desktop\FinEdge\FinEdge.API\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\VP\Desktop\FinEdge\FinEdge.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\VP\Desktop\FinEdge\FinEdge.API\obj\Debug\net8.0\FinEdge..435C7037.Up2Date
 C:\Users\VP\Desktop\FinEdge\FinEdge.API\obj\Debug\net8.0\FinEdge.API.dll
 C:\Users\VP\Desktop\FinEdge\FinEdge.API\obj\Debug\net8.0\refint\FinEdge.API.dll
@@ -144,3 +143,11 @@ C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\Npgsql.EntityFrameworkC
 C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\FinEdge.Infrasturcture.dll
 C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\FinEdge.Infrasturcture.pdb
 C:\Users\VP\Desktop\FinEdge\FinEdge.API\obj\Debug\net8.0\FinEdge.API.sourcelink.json
+C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VP\Desktop\FinEdge\FinEdge.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
